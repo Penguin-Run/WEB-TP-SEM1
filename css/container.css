@@ -1,0 +1,15 @@
+.question-box {
+	margin-top: 20px;
+    border: 1px solid gray;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.question-img {
+	max-width: 150px;
+}
+
+.question-title {
+	font-size: 20px;
+	font-weight: bold;
+}
