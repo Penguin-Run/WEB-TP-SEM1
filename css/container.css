@@ -94,4 +94,16 @@
 	margin-right: 5px;
 }
 
+.input_row {
+	margin-bottom: 15px;
+}
 
+.add_question_section {
+	margin-top: 10px;
+	margin-right: 30px;
+	margin-right: 30px;
+}
+
+#new_questions_text {
+	margin-left: 10px;
+}
