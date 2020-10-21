@@ -1,12 +1,32 @@
 .question-box {
 	margin-top: 20px;
     border: 1px solid gray;
-    padding: 15px;
+    padding: 10px;
+    margin: 30px;
     border-radius: 10px;
 }
 
+
+#main_question_img {
+	margin-left: 15px;
+	margin-top: 15px;
+	width: 150px;
+	padding: 0px;
+}
+
+.question-text {
+	margin-top: 10px;
+}
+
+.answers_links_bottom {
+	margin-top: 65px;
+}
+
 .question-img {
+	margin-left: 15px;
+	margin-top: 15px;
 	max-width: 150px;
+	padding: 0px;
 }
 
 .question-title {
@@ -20,6 +40,10 @@
 
 .avatar-image {
   max-width: 50px;
+}
+
+#answer_btn {
+	margin-top: 10px;
 }
 
 #name {
@@ -75,8 +99,15 @@
 	color: green;
 }
 
+.number_edit_main_answer {
+	margin-top: 10px;
+	margin-left: 70px;
+	width: 50px;
+}
+
 .number_edit {
-	margin-top: 5px;
+	margin-top: 10px;
+	margin-left: 40px;
 	width: 50px;
 }
 
@@ -87,7 +118,12 @@
 #page_links_row {
 	margin-top: 15px;
 	position: relative;
-	bottom: 0%;
+	bottom: 1%;
+}
+
+#answer_btn_answer_page {
+	margin-top: 5px;
+	margin-bottom: 5px;
 }
 
 .page_btn {
