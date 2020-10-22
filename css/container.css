@@ -6,7 +6,6 @@
     margin-bottom: 20px;
 }
 
-
 #main_question_img {
 	margin-left: 15px;
 	margin-top: 15px;
@@ -77,6 +76,10 @@
 .profile_info {
 	margin-left: 15px;
 	width: 130px;
+}
+
+#upload_avatar_input {
+	margin-bottom: 20px;
 }
 
 #new_questions_text {
