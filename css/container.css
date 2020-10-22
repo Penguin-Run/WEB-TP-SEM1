@@ -1,9 +1,9 @@
 .question-box {
-	margin-top: 20px;
     border: 1px solid gray;
     padding: 10px;
-    margin: 30px;
+    margin: 10px;
     border-radius: 10px;
+    margin-bottom: 20px;
 }
 
 
@@ -12,6 +12,11 @@
 	margin-top: 15px;
 	width: 150px;
 	padding: 0px;
+}
+
+#tag_header {
+	font-size: 50px;
+	font-weight: bold;
 }
 
 .question-text {
