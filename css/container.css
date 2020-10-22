@@ -14,6 +14,16 @@
 	padding: 0px;
 }
 
+#alert_message {
+	color: red;
+	margin-bottom: 15px; 
+	margin-left: 15px;
+}
+
+#create_acc_link {
+	margin-top: 10px;
+}
+
 #page_header {
 	font-size: 50px;
 	font-weight: bold;
