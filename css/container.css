@@ -14,9 +14,10 @@
 	padding: 0px;
 }
 
-#tag_header {
+#page_header {
 	font-size: 50px;
 	font-weight: bold;
+	margin-bottom: 15px;
 }
 
 .question-text {
@@ -32,6 +33,14 @@
 	margin-top: 15px;
 	max-width: 150px;
 	padding: 0px;
+}
+
+#upload_avatar_img {
+	max-width: 150px;
+}
+
+#upload_avatar_file_input {
+	margin-top: 15px;
 }
 
 .question-title {
@@ -110,6 +119,9 @@
 	width: 50px;
 }
 
+.input_label {
+}
+
 .number_edit {
 	margin-top: 10px;
 	margin-left: 40px;
@@ -136,7 +148,7 @@
 }
 
 .input_row {
-	margin-bottom: 15px;
+	margin-bottom: 20px;
 }
 
 .add_question_section {
